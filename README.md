@@ -1,4 +1,4 @@
-SahAI: Your Local AI Friend 🤖🌾
+#SahAI: Your Local AI Friend 🤖🌾
 Breaking Literacy and Language Barriers in Rural Gujarat.
 SahAI is a Multimodal Generative AI Agent built by Team Algó Riderz. It is designed specifically for rural populations who face difficulties navigating complex digital documents or educational resources due to language and literacy barriers.
 🌟 Core Mission
